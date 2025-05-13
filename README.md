@@ -2,8 +2,8 @@
 
 ## Instructions
 
-1. [ ] Execute `npm install` or `npm ci` 
-
+1. [ ] Execute `npm install`
+   
 ## For development environment
 2. [ ] Execute `npm start`
 
